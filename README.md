@@ -30,3 +30,11 @@ Unless you explicitly state otherwise, any contribution intentionally
 submitted for inclusion in the work by you, as defined in the Apache-2.0
 license, shall be dual licensed as above, without any additional terms or
 conditions.
+
+Hey Carlos, hope you're good. Wanted to ask if you help protocols out with development as well on a contractual basis or you're fully committed at this stage?
+
+Cheers,
+Nikolay Shabak
+Product Manager, https://clip.finance
+https://github.com/shabak
+https://twitter.com/nikolayshabak
